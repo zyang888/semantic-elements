@@ -1,0 +1,6 @@
+Write one paragraph summarizing what semantic elements are (max of 150 words)
+
+Semantics is the study of the meaning of words and phrases in a language.
+A semantic element clearly describes its meaning to both the browser and the developer.
+Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
+Examples of semantic elements: <form>, <table> and <article> - Clearly defines its content.
